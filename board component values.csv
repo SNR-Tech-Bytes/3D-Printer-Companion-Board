@@ -1,0 +1,13 @@
+﻿Lable,Values,Purpose
+R1,670 ohms,Button Indicator Resistor
+R2,670 ohms,Button Indicator Resistor
+R3,470 ohms,neopixel IC protection resistor
+R4,560 ohms,5V Indicator LED Resistor
+R5,680 ohms,12V indicator LED resistor
+R6,680 ohms,Reverse Polarity Resistor
+C1,680UF,Smoothing cap
+VR1,Potentiometer,Voltage tuning
+D1,1N4005,reverse polarity protection
+D2,Green LED,Indicator
+D3,Green LED,Indicator
+D4,Red LED,Indicator

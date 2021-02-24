@@ -1,0 +1,19 @@
+﻿Item,quantity,Notes
+12V Regulator (Recom R-78C12-1.0),1,
+1206 Green LED,2,mine were from sparkfun
+1206 Red LED,1,mine were from sparkfun
+1206 470 ohm resistor,1,
+1206 670 ohm resistor,2,
+1206 560 ohm resistor,1,
+1206 680 ohm resistor,2,
+680 uf electrolytic capacitor (6.3mm dia),1,
+5v regulator (cincon ec4sbw-48s05),1,
+J lead top Potentiometer (TC33x-2-103E or similar),1,
+adafruit metro mini,1,
+14 pin female headers,2,you can always get longer ones and cut them down with wire cutters or even better flush cuts
+barrel connector (DCJ200-10-A-k1-k GCT or similar),1,
+usb type A surface mount right angle (CNC tech 101-002-01100 or similar),3,
+1n4005 rectifier diode,1,
+"JST XHP connectors (2 pin, 3 pin, 4 pin, 5 pin)",1,Hilitech kit from amazon works well
+enclosure buttons (ulincos momentary U16F1NO1NC),2,these are my favorite fancy buttons out there. I use them on tons of stuff
+OPTIONAL U16C2 Pigtails,2,Makes buttons easier but you can always solder wire to buttons
